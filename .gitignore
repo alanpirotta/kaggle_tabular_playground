@@ -7,7 +7,11 @@
 
 
 # Remove previous ipynb_checkpoints
+<<<<<<< HEAD
 # git rm -r .ipynb_checkpoints/
+=======
+git rm -r .ipynb_checkpoints/
+>>>>>>> 25c2255d833f7e7f9339f06a0ed8a5dcd58b0a1d
 
 # datasets from kaggle
 datasets/
